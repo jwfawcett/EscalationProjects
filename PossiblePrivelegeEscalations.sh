@@ -6,7 +6,7 @@ CurrentFiles= ls -la
 
 
 #looks at the files and permissions in current directory
-#cho "Your Current Directory Shows:" 
+echo "Your Current Directory Shows:" 
 $CurrentFiles
 
 echo "And"
