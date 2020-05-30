@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-CurrentFiles= ls -la 
+CurrentFiles= "ls -la" 
 
 
 
